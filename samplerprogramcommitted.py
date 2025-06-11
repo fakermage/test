@@ -1,5 +1,3 @@
-### BROUGHT FROM samplerprogramv0004c ###
-
 import tkinter as tk
 from tkinter import filedialog
 import random
