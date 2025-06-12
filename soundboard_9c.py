@@ -301,4 +301,4 @@ clear_button = tk.Button(control_frame, text="Clear", width=20, command=clear_se
 clear_button.pack(side=tk.LEFT, padx=10, pady=10)
 
 # Start the GUI loop
-root
+root.mainloop()
